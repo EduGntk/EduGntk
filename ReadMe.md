@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou estudando FrontEnd, curso Engenharia de Software (3º  período)<br>Estou em busca de estágio na área.<br>Atualmente estou aprendendo JavaScript e MySQL.
+Estou estudando FrontEnd, curso Engenharia de Software (3º  período).<br>Estou em busca de estágio na área.<br>Atualmente estou aprendendo JavaScript e MySQL.
 
 
 ## 🌐 Socials:
