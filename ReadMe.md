@@ -10,7 +10,6 @@ Estudante de Engenharia de Software no Centro Universitário Campo Real. Atualme
 # Status do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=EduGntk&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EduGntk&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduGntk&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EduGntk&icon=1&color=12)](https://visitcount.itsvg.in)
